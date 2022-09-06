@@ -1,0 +1,26 @@
+form {
+   font-size: inherit;
+}
+
+input[type="text"] {
+   font-size: inherit;
+   border: none;
+   outline: none;
+   padding: 0.5em 1em;
+   margin-block: 2em 1em;
+}
+
+button {
+   font-size: inherit;
+   border: none;
+   outline: none;
+   padding: 0.5em 1em;
+   background-color: hsl(220 50% 50%);
+   color: #fff;
+   cursor: pointer;
+}
+
+.btn-clear {
+   margin-top: 1em;
+   background-color: hsl(0 50% 50%);
+}

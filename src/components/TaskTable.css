@@ -1,0 +1,10 @@
+input[type="checkbox"] {
+   margin-left: 1em;
+   padding: 1em;
+}
+
+table {
+   margin-block: 1em;
+   padding: 0.5em 0;
+   background-color: #234;
+}
