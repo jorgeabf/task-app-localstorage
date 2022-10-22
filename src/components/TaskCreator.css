@@ -2,7 +2,7 @@ form {
    border-radius: var(--border-radius);
    font-size: inherit;
    display: grid;
-   grid-template-columns: 1fr auto;
+   grid-template-columns: 1fr 13ch;
    overflow: hidden;
 }
 
