@@ -13,7 +13,6 @@ const VisibilityControl = ({
 
    return (
       <div>
-         <label>Show Tasks Done</label>
          <input
             type="checkbox"
             onChange={(e) =>
@@ -21,11 +20,12 @@ const VisibilityControl = ({
             }
             checked={isChecked}
          />
+         <label>Show Tasks Done</label>
          <br />
          <button
             className="btn-clear"
             onClick={handleDelete}>
-            Clear
+            Clear Tasks Done
          </button>
       </div>
    );

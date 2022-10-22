@@ -1,12 +1,12 @@
 .App {
-   text-align: center;
    max-width: 600px;
    margin-inline: auto;
+   padding-block: 3em;
+   padding-inline: 1em;
 }
 
 .App {
    background-color: #123;
-   min-height: 100vh;
    display: flex;
    flex-direction: column;
    color: white;

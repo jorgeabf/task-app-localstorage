@@ -1,3 +1,7 @@
+:root {
+   --border-radius: 0.2em;
+}
+
 body {
    margin: 0;
    font-family: -apple-system, BlinkMacSystemFont,
@@ -6,6 +10,6 @@ body {
       sans-serif;
    -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
-   font-size: calc(10px + 2vmin);
+   font-size: 18px;
    background-color: #123;
 }

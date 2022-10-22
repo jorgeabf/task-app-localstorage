@@ -1,10 +1,16 @@
 input[type="checkbox"] {
-   margin-left: 1em;
-   padding: 1em;
+   margin-right: 1em;
 }
 
 table {
-   margin-block: 1em;
-   padding: 0.5em 0;
+   margin-block: 2em;
+   padding: 1em;
+   border-radius: var(--border-radius);
    background-color: #234;
+}
+
+th {
+   text-transform: uppercase;
+   padding-bottom: 1em;
+   color: lightblue;
 }

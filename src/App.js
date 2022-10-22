@@ -82,5 +82,3 @@ function App() {
 }
 
 export default App;
-
-//? Minuto 33 Video Fatz code. React - Aplicación de tareas con useState, useEffect y localStorage
